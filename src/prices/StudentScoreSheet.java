@@ -1,4 +1,4 @@
-package studentscoresheet;
+package prices;
 
 public class StudentScoreSheet {
     public static void main(String[] args) {
